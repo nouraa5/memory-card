@@ -1,0 +1,3 @@
+1- Add the conn1.php file to your folder C:\xampp\htdocs\memory_card_photos
+2- import the file: memory_game (1) to phpmyadmin
+3- Start xampp
